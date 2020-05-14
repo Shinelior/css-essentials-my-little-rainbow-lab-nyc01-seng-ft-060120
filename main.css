@@ -1,5 +1,5 @@
 div {
-#red  /* this selects any elements with the red id */
+ /* this selects any elements with the red id */
   border-top-color: #f00;
 
   border: 20px solid #000; /* this is short hand for setting
